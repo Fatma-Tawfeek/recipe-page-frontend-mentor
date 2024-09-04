@@ -51,6 +51,7 @@ body {
     color: var(--grey-text-color);
     font-size: 1.6rem;
     padding: 10rem 0;
+    line-height: 1.5;
 }
 
 h1,
